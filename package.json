@@ -1,0 +1,11 @@
+{
+  "name": "zombi",
+  "version": "1.0.0",
+  "description": "pagina web de diseño de zombies",
+  "main": "src/js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AlanRosasGarcia",
+  "license": "ISC"
+}
